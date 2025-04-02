@@ -31,17 +31,17 @@ const data = {
    workspace: [
       {
          name: 'Teams',
-         url: '/lndev-ui/teams',
+         url: '/kanban/teams',
          icon: ContactRound,
       },
       {
          name: 'Projects',
-         url: '/lndev-ui/projects',
+         url: '/kanban/projects',
          icon: Box,
       },
       {
          name: 'Members',
-         url: '/lndev-ui/members',
+         url: '/kanban/members',
          icon: UserRound,
       },
    ],
@@ -71,27 +71,20 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
                         <X className="size-4" />
                      </div>
                      <div className="text-balance text-lg font-semibold leading-tight group-hover/sidebar:underline">
-                        Open-source layouts by lndev-ui
+                        Open-source layouts by Deugoue Fredy
                      </div>
-                     <div>
-                        Collection of beautifully crafted open-source layouts UI built with
-                        shadcn/ui.
-                     </div>
+                     <div>shadcn/ui tailwindcss vite.</div>
                      <Link
                         target="_blank"
                         rel="noreferrer"
                         className="absolute inset-0"
-                        href="https://square.lndev.me"
+                        href="https://ket-up.com"
                      >
-                        <span className="sr-only">Square by lndev-ui</span>
+                        <span className="sr-only">Square by kanban</span>
                      </Link>
                      <Button size="sm" className="w-full">
-                        <Link
-                           href="https://square.lndev.me"
-                           target="_blank"
-                           rel="noopener noreferrer"
-                        >
-                           square.lndev.me
+                        <Link href="https://ket-up.com" target="_blank" rel="noopener noreferrer">
+                           Ket-Up
                         </Link>
                      </Button>
                   </div>
@@ -100,7 +93,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
                   <HelpButton />
                   <Button size="icon" variant="secondary" asChild>
                      <Link
-                        href="https://github.com/ln-dev7/circle"
+                        href="https://github.com/tartar999"
                         target="_blank"
                         rel="noopener noreferrer"
                      >

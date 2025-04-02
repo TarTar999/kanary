@@ -31,7 +31,7 @@ export function CreateNewIssue() {
       let identifier = Math.floor(Math.random() * 999)
          .toString()
          .padStart(3, '0');
-      while (identifiers.includes(`LNUI-${identifier}`)) {
+      while (identifiers.includes(`KETUPUI-${identifier}`)) {
          identifier = Math.floor(Math.random() * 999)
             .toString()
             .padStart(3, '0');
@@ -43,7 +43,7 @@ export function CreateNewIssue() {
       const identifier = generateUniqueIdentifier();
       return {
          id: uuidv4(),
-         identifier: `LNUI-${identifier}`,
+         identifier: `KETUPUI-${identifier}`,
          title: '',
          description: '',
          status: defaultStatus || status.find((s) => s.id === 'to-do')!,

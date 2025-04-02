@@ -37,7 +37,7 @@ generateIssuesRanks();
 export const issues: Issue[] = [
    {
       id: '1',
-      identifier: 'LNUI-101',
+      identifier: 'KETUPUI-101',
       title: 'Refactor Button component for full accessibility compliance',
       description: '',
       status: status[5],
@@ -51,7 +51,7 @@ export const issues: Issue[] = [
    },
    {
       id: '2',
-      identifier: 'LNUI-204',
+      identifier: 'KETUPUI-204',
       title: 'Optimize animations for smoother UI transitions',
       description: '',
       status: status[2],
@@ -65,7 +65,7 @@ export const issues: Issue[] = [
    },
    {
       id: '3',
-      identifier: 'LNUI-309',
+      identifier: 'KETUPUI-309',
       title: 'Implement dark mode toggle with system preferences support',
       description: '',
       status: status[3],
@@ -79,7 +79,7 @@ export const issues: Issue[] = [
    },
    {
       id: '4',
-      identifier: 'LNUI-415',
+      identifier: 'KETUPUI-415',
       title: 'Design new modal system with focus trapping',
       description: '',
       status: status[1],
@@ -93,7 +93,7 @@ export const issues: Issue[] = [
    },
    {
       id: '5',
-      identifier: 'LNUI-501',
+      identifier: 'KETUPUI-501',
       title: 'Enhance responsiveness of Navbar',
       description: '',
       status: status[1],
@@ -108,7 +108,7 @@ export const issues: Issue[] = [
    },
    {
       id: '6',
-      identifier: 'LNUI-502',
+      identifier: 'KETUPUI-502',
       title: 'Optimize loading time of Footer',
       description: '',
       status: status[2],
@@ -122,7 +122,7 @@ export const issues: Issue[] = [
    },
    {
       id: '7',
-      identifier: 'LNUI-503',
+      identifier: 'KETUPUI-503',
       title: 'Refactor Sidebar for better accessibility',
       description: '',
       status: status[3],
@@ -136,7 +136,7 @@ export const issues: Issue[] = [
    },
    {
       id: '8',
-      identifier: 'LNUI-504',
+      identifier: 'KETUPUI-504',
       title: 'Implement new Card component design',
       description: '',
       status: status[4],
@@ -150,7 +150,7 @@ export const issues: Issue[] = [
    },
    {
       id: '9',
-      identifier: 'LNUI-505',
+      identifier: 'KETUPUI-505',
       title: 'Improve Tooltip interactivity',
       description: '',
       status: status[1],
@@ -164,7 +164,7 @@ export const issues: Issue[] = [
    },
    {
       id: '10',
-      identifier: 'LNUI-506',
+      identifier: 'KETUPUI-506',
       title: 'Redesign Dropdown for mobile devices',
       description: '',
       status: status[2],
@@ -178,7 +178,7 @@ export const issues: Issue[] = [
    },
    {
       id: '11',
-      identifier: 'LNUI-507',
+      identifier: 'KETUPUI-507',
       title: 'Fix Form validation issues',
       description: '',
       status: status[3],
@@ -192,7 +192,7 @@ export const issues: Issue[] = [
    },
    {
       id: '12',
-      identifier: 'LNUI-508',
+      identifier: 'KETUPUI-508',
       title: 'Update Modal animations',
       description: '',
       status: status[0],
@@ -206,7 +206,7 @@ export const issues: Issue[] = [
    },
    {
       id: '13',
-      identifier: 'LNUI-509',
+      identifier: 'KETUPUI-509',
       title: 'Revamp Button states and interactions',
       description: '',
       status: status[5],
@@ -220,7 +220,7 @@ export const issues: Issue[] = [
    },
    {
       id: '14',
-      identifier: 'LNUI-510',
+      identifier: 'KETUPUI-510',
       title: 'Streamline Input component styling',
       description: '',
       status: status[2],
@@ -234,7 +234,7 @@ export const issues: Issue[] = [
    },
    {
       id: '15',
-      identifier: 'LNUI-511',
+      identifier: 'KETUPUI-511',
       title: 'Integrate new Select component behavior',
       description: '',
       status: status[3],
@@ -248,7 +248,7 @@ export const issues: Issue[] = [
    },
    {
       id: '16',
-      identifier: 'LNUI-512',
+      identifier: 'KETUPUI-512',
       title: 'Enhance Breadcrumb navigation usability',
       description: '',
       status: status[0],
@@ -262,7 +262,7 @@ export const issues: Issue[] = [
    },
    {
       id: '17',
-      identifier: 'LNUI-513',
+      identifier: 'KETUPUI-513',
       title: 'Refactor Accordion for smoother transitions',
       description: '',
       status: status[1],
@@ -276,7 +276,7 @@ export const issues: Issue[] = [
    },
    {
       id: '18',
-      identifier: 'LNUI-514',
+      identifier: 'KETUPUI-514',
       title: 'Implement Carousel with lazy loading',
       description: '',
       status: status[2],
@@ -290,7 +290,7 @@ export const issues: Issue[] = [
    },
    {
       id: '19',
-      identifier: 'LNUI-515',
+      identifier: 'KETUPUI-515',
       title: 'Optimize Grid layout for responsive design',
       description: '',
       status: status[3],
@@ -304,7 +304,7 @@ export const issues: Issue[] = [
    },
    {
       id: '20',
-      identifier: 'LNUI-516',
+      identifier: 'KETUPUI-516',
       title: 'Update Typography system for clarity',
       description: '',
       status: status[4],
@@ -318,7 +318,7 @@ export const issues: Issue[] = [
    },
    {
       id: '21',
-      identifier: 'LNUI-517',
+      identifier: 'KETUPUI-517',
       title: 'Improve Color scheme consistency',
       description: '',
       status: status[1],
@@ -332,7 +332,7 @@ export const issues: Issue[] = [
    },
    {
       id: '22',
-      identifier: 'LNUI-518',
+      identifier: 'KETUPUI-518',
       title: 'Design new Icon set for better scalability',
       description: '',
       status: status[2],
@@ -346,7 +346,7 @@ export const issues: Issue[] = [
    },
    {
       id: '23',
-      identifier: 'LNUI-519',
+      identifier: 'KETUPUI-519',
       title: 'Fix Notification system timing',
       description: '',
       status: status[3],
@@ -360,7 +360,7 @@ export const issues: Issue[] = [
    },
    {
       id: '24',
-      identifier: 'LNUI-520',
+      identifier: 'KETUPUI-520',
       title: 'Enhance Loading indicator performance',
       description: '',
       status: status[0],
@@ -374,7 +374,7 @@ export const issues: Issue[] = [
    },
    {
       id: '25',
-      identifier: 'LNUI-521',
+      identifier: 'KETUPUI-521',
       title: 'Refactor Progress bar animations',
       description: '',
       status: status[5],
@@ -388,7 +388,7 @@ export const issues: Issue[] = [
    },
    {
       id: '26',
-      identifier: 'LNUI-522',
+      identifier: 'KETUPUI-522',
       title: 'Optimize Table component sorting',
       description: '',
       status: status[2],
@@ -402,7 +402,7 @@ export const issues: Issue[] = [
    },
    {
       id: '27',
-      identifier: 'LNUI-523',
+      identifier: 'KETUPUI-523',
       title: 'Improve Pagination logic',
       description: '',
       status: status[3],
@@ -416,7 +416,7 @@ export const issues: Issue[] = [
    },
    {
       id: '28',
-      identifier: 'LNUI-524',
+      identifier: 'KETUPUI-524',
       title: 'Implement Search bar with auto-complete',
       description: '',
       status: status[0],
@@ -430,7 +430,7 @@ export const issues: Issue[] = [
    },
    {
       id: '29',
-      identifier: 'LNUI-525',
+      identifier: 'KETUPUI-525',
       title: 'Update Alert system for critical notifications',
       description: '',
       status: status[1],
@@ -444,7 +444,7 @@ export const issues: Issue[] = [
    },
    {
       id: '30',
-      identifier: 'LNUI-526',
+      identifier: 'KETUPUI-526',
       title: 'Revise Overlay for better usability',
       description: '',
       status: status[2],

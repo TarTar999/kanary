@@ -1,4 +1,4 @@
-export interface User {
+export type User = {
    id: string;
    name: string;
    avatarUrl: string;
@@ -7,7 +7,7 @@ export interface User {
    role: 'Member' | 'Admin' | 'Guest';
    joinedDate: string;
    teamIds: string[];
-}
+};
 
 const avatarUrl = (seed: string) => `https://api.dicebear.com/9.x/glass/svg?seed=${seed}`;
 
@@ -19,10 +19,10 @@ export const statusUserColors = {
 
 export const users: User[] = [
    {
-      id: 'ln',
-      name: 'leonel.ngoya',
-      avatarUrl: avatarUrl('ln'),
-      email: 'leonelngoya@gmail.com',
+      id: 'fr',
+      name: 'fredy.rayan',
+      avatarUrl: avatarUrl('fr'),
+      email: 'fredy.rayan@gmail.com',
       status: 'online',
       role: 'Admin',
       joinedDate: '2022-01-01',
@@ -181,8 +181,8 @@ export const users: User[] = [
    {
       id: 'gabriel',
       name: 'gabriel.nguyen',
-      avatarUrl: avatarUrl('gabrielnguyen'),
-      email: 'gabrielnguyen@gmail.com',
+      avatarUrl: avatarUrl('gabrieguyen'),
+      email: 'gabrieguyen@gmail.com',
       status: 'online',
       role: 'Member',
       joinedDate: '2023-04-17',

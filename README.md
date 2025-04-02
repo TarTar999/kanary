@@ -12,8 +12,8 @@ Project management interface inspired by Linear. Built with Next.js and shadcn/u
 ### 📦 Installation
 
 ```shell
-git clone https://github.com/ln-dev7/circle.git
-cd circle
+git clone https://github.com/tartar999/kanban.git
+cd kanban
 ```
 
 ### Install dependencies

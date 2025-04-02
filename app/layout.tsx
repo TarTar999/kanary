@@ -13,12 +13,12 @@ const geistMono = Geist_Mono({
    subsets: ['latin'],
 });
 
-const siteUrl = 'https://circle.lndev.me';
+const siteUrl = 'https://ket-up.com';
 
 export const metadata: Metadata = {
    title: {
-      template: '%s | Circle by lndev-ui',
-      default: 'Circle by lndev-ui',
+      template: '%s | KanBan',
+      default: 'KanBan Zuri',
    },
    description:
       'Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams with a modern, responsive UI.',
@@ -32,14 +32,14 @@ export const metadata: Metadata = {
             url: `${siteUrl}/banner.png`,
             width: 2560,
             height: 1440,
-            alt: 'lndev/ui',
+            alt: 'KanBan',
          },
       ],
    },
    twitter: {
       card: 'summary_large_image',
-      site: '@ln_dev7',
-      creator: '@ln_dev7',
+      site: '@heavenArrow',
+      creator: '@heavenArrow',
       images: [
          {
             url: `${siteUrl}/banner.png`,
@@ -49,8 +49,8 @@ export const metadata: Metadata = {
          },
       ],
    },
-   authors: [{ name: 'Leonel NGOYA', url: 'https://lndev.me/' }],
-   keywords: ['ui', 'lndev', 'components', 'template'],
+   authors: [{ name: 'Deugoue Fredy', url: 'https://ket-up.com' }],
+   keywords: ['ui', 'Deugoue fredy', 'components', 'template'],
 };
 
 import { ThemeProvider } from '@/components/layout/theme-provider';

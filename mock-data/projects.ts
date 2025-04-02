@@ -74,7 +74,7 @@ export const health: Health[] = [
 export const projects: Project[] = [
    {
       id: '1',
-      name: 'LNDev UI - Core Components',
+      name: 'KETUP UI - Core Components',
       status: status[0],
       icon: Cuboid,
       percentComplete: 80,
@@ -85,7 +85,7 @@ export const projects: Project[] = [
    },
    {
       id: '2',
-      name: 'LNDev UI - Theming',
+      name: 'KETUP UI - Theming',
       status: status[1],
       icon: Blocks,
       percentComplete: 50,
@@ -96,7 +96,7 @@ export const projects: Project[] = [
    },
    {
       id: '3',
-      name: 'LNDev UI - Modals',
+      name: 'KETUP UI - Modals',
       status: status[2],
       icon: Vault,
       percentComplete: 0,
@@ -107,7 +107,7 @@ export const projects: Project[] = [
    },
    {
       id: '4',
-      name: 'LNDev UI - Navigation',
+      name: 'KETUP UI - Navigation',
       status: status[3],
       icon: BrickWall,
       percentComplete: 0,
@@ -118,7 +118,7 @@ export const projects: Project[] = [
    },
    {
       id: '5',
-      name: 'LNDev UI - Layout',
+      name: 'KETUP UI - Layout',
       status: status[4],
       icon: Wallpaper,
       percentComplete: 0,
@@ -129,7 +129,7 @@ export const projects: Project[] = [
    },
    {
       id: '6',
-      name: 'LNDev UI - Sidebar',
+      name: 'KETUP UI - Sidebar',
       status: status[5],
       icon: TrafficCone,
       percentComplete: 0,
@@ -140,7 +140,7 @@ export const projects: Project[] = [
    },
    {
       id: '7',
-      name: 'LNDev UI - Cards',
+      name: 'KETUP UI - Cards',
       status: status[1],
       icon: Grid2X2,
       percentComplete: 0,
@@ -151,7 +151,7 @@ export const projects: Project[] = [
    },
    {
       id: '8',
-      name: 'LNDev UI - Tooltip',
+      name: 'KETUP UI - Tooltip',
       status: status[2],
       icon: Bomb,
       percentComplete: 0,
@@ -162,7 +162,7 @@ export const projects: Project[] = [
    },
    {
       id: '9',
-      name: 'LNDev UI - Dropdown',
+      name: 'KETUP UI - Dropdown',
       status: status[3],
       icon: Shapes,
       percentComplete: 50,
@@ -173,7 +173,7 @@ export const projects: Project[] = [
    },
    {
       id: '10',
-      name: 'LNDev UI - Data Tables',
+      name: 'KETUP UI - Data Tables',
       status: status[0],
       icon: Table,
       percentComplete: 65,
@@ -184,7 +184,7 @@ export const projects: Project[] = [
    },
    {
       id: '11',
-      name: 'LNDev UI - Form Controls',
+      name: 'KETUP UI - Form Controls',
       status: status[2],
       icon: FormInput,
       percentComplete: 30,
@@ -195,7 +195,7 @@ export const projects: Project[] = [
    },
    {
       id: '12',
-      name: 'LNDev UI - Notifications',
+      name: 'KETUP UI - Notifications',
       status: status[1],
       icon: Bell,
       percentComplete: 45,
@@ -206,7 +206,7 @@ export const projects: Project[] = [
    },
    {
       id: '13',
-      name: 'LNDev UI - Authentication Flow',
+      name: 'KETUP UI - Authentication Flow',
       status: status[0],
       icon: Lock,
       percentComplete: 75,
@@ -217,7 +217,7 @@ export const projects: Project[] = [
    },
    {
       id: '14',
-      name: 'LNDev UI - User Preferences',
+      name: 'KETUP UI - User Preferences',
       status: status[3],
       icon: Settings,
       percentComplete: 10,
@@ -228,7 +228,7 @@ export const projects: Project[] = [
    },
    {
       id: '15',
-      name: 'LNDev UI - Dashboard Widgets',
+      name: 'KETUP UI - Dashboard Widgets',
       status: status[1],
       icon: LayoutDashboard,
       percentComplete: 55,
@@ -239,7 +239,7 @@ export const projects: Project[] = [
    },
    {
       id: '16',
-      name: 'LNDev UI - Onboarding Guide',
+      name: 'KETUP UI - Onboarding Guide',
       status: status[2],
       icon: HelpCircle,
       percentComplete: 25,
@@ -250,7 +250,7 @@ export const projects: Project[] = [
    },
    {
       id: '17',
-      name: 'LNDev UI - Progress Indicators',
+      name: 'KETUP UI - Progress Indicators',
       status: status[4],
       icon: Loader,
       percentComplete: 40,
@@ -261,7 +261,7 @@ export const projects: Project[] = [
    },
    {
       id: '18',
-      name: 'LNDev UI - Internationalization',
+      name: 'KETUP UI - Internationalization',
       status: status[5],
       icon: Globe,
       percentComplete: 15,
@@ -272,7 +272,7 @@ export const projects: Project[] = [
    },
    {
       id: '19',
-      name: 'LNDev UI - Accessibility Features',
+      name: 'KETUP UI - Accessibility Features',
       status: status[0],
       icon: Accessibility,
       percentComplete: 60,
@@ -283,7 +283,7 @@ export const projects: Project[] = [
    },
    {
       id: '20',
-      name: 'LNDev UI - Media Player',
+      name: 'KETUP UI - Media Player',
       status: status[3],
       icon: Play,
       percentComplete: 20,
